@@ -4,7 +4,7 @@
 
 ## Screenshots
 
-![Screenshot](https://github.com/MKLakshitha/simple_flutter_app/blob/main/Screenshot%202023-07-12%20at%2009.22.02.png)
+![Screenshot](https://github.com/MKLakshitha/SplashScreen/blob/main/Screenshot%202023-07-19%20at%2011.54.17.png)
 
 
 ## Getting Started
